@@ -1,0 +1,14 @@
+{
+  "name": "terminal-voice-bot",
+  "version": "1.0.0",
+  "description": "Voice-Controlled Terminal Assistant",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"No tests yet.\""
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "openai": "^4.0.0"
+  }
+}
